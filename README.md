@@ -28,10 +28,6 @@ The event page, which will have the full set of materials closer to the date: ht
 - If you would like to complain/suggest/contribute to this project, feel free to open a issue :heart_decoration:
 - Please follow our [contributing guidelines](https://github.com/ISCB-Academy/Ensembl-genome-browser-and-REST-API/blob/main/CONTRIBUTING.md). 
 
-## Citation
-
-If you use any of the materials of this lesson, please cite as:
-> FIXME
 
 ## License
 
