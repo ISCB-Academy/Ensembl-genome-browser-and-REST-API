@@ -8,12 +8,12 @@ This workshop will introduce you to the range of data available through Ensembl 
 
 To participate in the hands-on aspects of this workshop, including live polling, exploring online databases and exercises, you will need to bring a laptop. Workshop materials, including slides, screenshots, exercises, sample files and solutions will be available before the workshop and will remain permanently online at the Ensembl training portal: https://training.ensembl.org.
 
-The event page, which will have the full set of materials closer to the date: http://training.ensembl.org/events/2023/2023-09-28-ISCB-Academy
+The event page, which will have the full set of materials closer to the date: https://training.ensembl.org/events/2023/2023-11-02-ISCB_Academy 
 
 **Time/Date:** 
 
-- Part 1: September 28, 2023 at 10:00 AM UTC
-- Part 2: September 29, 2023 at 10:00 AM UTC
+- Part 1: Nov 2, 2023 at 3:00 PM UTC
+- Part 2: Nov 3, 2023 at 3:00 PM UTC
 
 # Learning objectives
 
